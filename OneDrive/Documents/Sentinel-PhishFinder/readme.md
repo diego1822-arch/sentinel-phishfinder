@@ -26,9 +26,11 @@ As a security developer/analyst, I realized that many phishing incidents start w
 
 ## 🖼️ Quick Demo
 
+## Quick Demo
+
 Here is a view of the platform in action, showcasing the Global Risk Score and identified threats.
 
-![Screenshot of Sentinel PhishFinder in action, displaying the Global Risk Score](assets/Captura de pantalla 2025-09-26 194510.png)
+![Quick Demo of Sentinel PhishFinder UI](assets/demo-ui.png)
 
 ---
 
